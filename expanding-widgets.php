@@ -3,7 +3,7 @@
 Plugin Name: Expanding Widgets
 Plugin URI: http://mattclements.co.uk/
 Description: Expanding Widget system, allows multiple widgets to be created and expanded
-Version: 1.0
+Version: 1.1
 Author: Matt Clements
 Author URI: http://mattclements.co.uk/
 License: MIT
