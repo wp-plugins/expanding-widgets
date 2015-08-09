@@ -31,3 +31,6 @@ Sample CSS is below, which provides some basic styling.
 
 = 1.0 =
 * Initial Version
+
+= 1.1 =
+* Support for Wordpress 4.3
